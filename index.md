@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to PangDaCAT
 
-You can use the [editor on GitHub](https://github.com/PangDaCAT/PangDaCAT.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这里将分享一些关于足式机器人的学习纪录。
 
 ### Markdown
 
